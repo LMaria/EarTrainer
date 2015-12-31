@@ -37,7 +37,7 @@ public void createQuestions(){
             BufferedReader reader = new BufferedReader(fileReader);
 
 
-            //BufferedReader reader = new BufferedReader(new FileReader("testikysimused.txt"));
+           
 
         String fileLine = reader.readLine();
 
