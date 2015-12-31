@@ -43,7 +43,7 @@ public class MusicQuiz extends Application {
     RadioButton kasutajaVastus;
 
 
-    TilePane buttons = new TilePane();
+    TilePane buttons;
 
     AudioClip music;
 
