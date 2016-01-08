@@ -1,0 +1,10 @@
+﻿Vali õige intervall,väike terts,suur sekund,väike sekund,suur sekund,Ebmajor2nd-asc.mp3
+Vali õige intervall,suur sekst,suur septim,väike septim,suur sekst,G-major6th-desc.mp3
+Vali õige intervall,puhas kvart,puhas kvint,väike sekst,puhas kvart,D-perf-4th-harmony.mp3
+Vali õige intervall,puhas kvart,puhas kvint,väike sekst,puhas kvint,c-perf-5th.mp3
+Vali õige intervall,oktav,väike sekst,väike septim,väike septim,Ab-minor7-asc.mp3
+Vali õige intervall,väike terts,suur terts,väike sekund,väike sekund,C-minor3-harmony.mp3
+Vali õige intervall,suur septim,suur sekst,väike septim,suur sekst,Bmajor-6th-asc.mp3
+Vali õige intervall,väike terts,suur terts,suur sekund,suur terts,F#-major3rd-desc.mp3
+Vali õige intervall,puhas kvart,puhas kvint,väike sekst,puhas kvart,Aperf-4th-asc.mp3
+Vali õige intervall,puhas kvart,puhas kvint,väike sekst,puhas kvint,B-perfect-5th-asc.mp3

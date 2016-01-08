@@ -1,0 +1,10 @@
+﻿Vali õige helilaad,ioonia,miksolüüdia,dooria,dooria,g-sharp-dorian.mp3
+Vali õige helilaad,meloodiline minoor,harmooniline minoor,loomulik minoor,meloodiline minoor,c-melodic-minor.mp3
+Vali õige helilaad,früügia,eoolia,lokria,lokria,locrian.mp3
+Vali õige helilaad,früügia,eoolia,harmooniline minoor,eoolia,f-aeolian.mp3
+Vali õige helilaad,dooria,joonia,lüüdia,joonia,g-sharp-ionian.mp3
+Vali õige helilaad,loomulik minoor,harmooniline minoor,meloodiline mažoor,loomulik minoor,d-minor.mp3
+Vali õige helilaad,mažoorne pentatoonika,minoorne pentatoonika,bluus,minoorne pentatoonika,a-minor-pentatonic.mp3
+Vali õige helilaad,lokria,eoolia,früügia,früügia,b-sharp-phrygian.mp3
+Vali õige helilaad,miksolüüdia,lüüdia,joonia,miksolüüdia,c-mixolydian.mp3
+Vali õige helilaad,bluus,mažoorne pentatoonika,minoorne pentatoonika,mažoorne pentatoonika,e-major-pentatonic.mp3
